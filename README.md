@@ -1,7 +1,5 @@
 # ETL for Movie Data: A Comprehensive Data Pipeline
 
-![CI](https://github.com/ksdisch/Movies-ETL/workflows/CI/badge.svg)
-
 As an accomplished data professional, I am proud to showcase this ETL (Extract, Transform, Load) project. The purpose of this project is to efficiently extract data from sources like Wikipedia, Kaggle, and MovieLens, transform and clean it into a usable format, and finally load it into a database, ready for advanced analysis.
 
 ## Project Overview
